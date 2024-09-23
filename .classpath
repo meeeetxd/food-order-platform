@@ -39,5 +39,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Meet Patel/Downloads/servlet.jar/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Meet Patel/Downloads/jakarta.servlet-api-6.0.0-javadoc.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
